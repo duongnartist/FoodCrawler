@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Thịt",
+    "params": [
+      {
+        "key": "tag",
+        "value": "thit-heo"
+      },
+      {
+        "key": "tag",
+        "value": "thit-ga"
+      },
+      {
+        "key": "tag",
+        "value": "thit-bo"
+      },
+      {
+        "key": "tag",
+        "value": "thit-khac"
+      }
+    ]
+  },
+  {
+    "name": "Hải sản",
+    "params": [
+      {
+        "key": "tag",
+        "value": "ca"
+      },
+      {
+        "key": "tag",
+        "value": "tom"
+      },
+      {
+        "key": "tag",
+        "value": "muc"
+      },
+      {
+        "key": "tag",
+        "value": "hai-san-khac"
+      }
+    ]
+  },
+  {
+    "name": "Rau củ quả",
+    "params": [
+      {
+        "key": "tag",
+        "value": "cac-loai-rau"
+      },
+      {
+        "key": "tag",
+        "value": "cu-qua"
+      },
+      {
+        "key": "tag",
+        "value": "nam"
+      },
+      {
+        "key": "tag",
+        "value": "ca-chua"
+      },
+      {
+        "key": "tag",
+        "value": "ca-rot"
+      },
+      {
+        "key": "tag",
+        "value": "rau-cu-qua-khac"
+      }
+    ]
+  },
+  {
+    "name": "Khác",
+    "params": [
+      {
+        "key": "tag",
+        "value": "trung"
+      },
+      {
+        "key": "tag",
+        "value": "dau-hu"
+      },
+      {
+        "key": "tag",
+        "value": "nguyen-lieu-khac"
+      }
+    ]
+  },
+  {
+    "name": "Tinh bột",
+    "params": [
+      {
+        "key": "tag",
+        "value": "pho-bun-hu-tieu-mien"
+      },
+      {
+        "key": "tag",
+        "value": "banh-mi"
+      },
+      {
+        "key": "tag",
+        "value": "gao"
+      },
+      {
+        "key": "tag",
+        "value": "khac"
+      }
+    ]
+  },
+  {
+    "name": "Ngày",
+    "params": [
+      {
+        "key": "tag",
+        "value": "bua-sang"
+      },
+      {
+        "key": "tag",
+        "value": "bua-trua"
+      },
+      {
+        "key": "tag",
+        "value": "bua-toi"
+      },
+      {
+        "key": "tag",
+        "value": "mon-ngon-cuoi-tuan"
+      },
+      {
+        "key": "tag",
+        "value": "thuc-don-hang-ngay"
+      }
+    ]
+  },
+  {
+    "name": "Lễ tiệc",
+    "params": [
+      {
+        "key": "tag",
+        "value": "ngay-he"
+      },
+      {
+        "key": "tag",
+        "value": "le-hoi-hoa-trang"
+      },
+      {
+        "key": "tag",
+        "value": "mon-ngon-ngay-sinh-nhat"
+      },
+      {
+        "key": "tag",
+        "value": "mon-ngon-dip-giang-sinh"
+      },
+      {
+        "key": "tag",
+        "value": "mon-ngon-ngay-tet"
+      },
+      {
+        "key": "tag",
+        "value": "le-tiec-khac"
+      }
+    ]
+  },
+  {
+    "name": "Nước chấm truyền thống",
+    "params": [
+      {
+        "key": "tag",
+        "value": "chao"
+      }
+    ]
+  },
+  {
+    "name": "Nước chấm khác",
+    "params": [
+      {
+        "key": "tag",
+        "value": "bot-canh"
+      },
+      {
+        "key": "tag",
+        "value": "nuoc-tuong"
+      },
+      {
+        "key": "tag",
+        "value": "tuong-ca-tuong-ot"
+      },
+      {
+        "key": "tag",
+        "value": "mayonnaise"
+      }
+    ]
+  }
+]
